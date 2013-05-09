@@ -7,3 +7,4 @@ hello! this is a blog with Jekyll. Here is my code!
 
 {% highlight ruby %}
 @posts.each do |post|
+{% endhighlight %}
